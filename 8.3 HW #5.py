@@ -8,8 +8,6 @@ pattern=input("What pattern do you want to use ")
 for i in range(base+1):
     print(i*pattern)
 
-
-
 # #Question 2
 
 import random
@@ -60,7 +58,17 @@ def newtonSqrt(n):
 
 
 print("Final Estimation:", newtonSqrt(25))
+
 #Question 8.14.2
+
+def print_triangular_numbers(n):
+    triangleSum = 0
+    for i in range(1,n+1):
+        triangleSum += i
+        print(str(i) + "        " + str(triangleSum))
+
+print(print_triangular_numbers(5))
+
 #Question 8.14.3
 
 def is_prime(n):
@@ -69,3 +77,14 @@ def is_prime(n):
             return False
     return True
 print(is_prime(7))
+
+#Question 8.14.4
+
+import turtle
+import random
+screen = turtle.getscreen()
+moving = turtle.Turtle()
+for i in range (50):
+    moving.forward(10)
+    moving.left(random.randrange(-90,90))
+
