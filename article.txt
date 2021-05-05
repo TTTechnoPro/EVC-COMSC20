@@ -1,0 +1,58 @@
+Python is one such tool that has a unique attribute, of being a general purpose programming language as being 
+easy to use, when it comes to analytical and quantitative computing. Python has been in the industry for quite 
+a long time and has been used in industries like scientific computing, oil, gas, finance, physics, signal 
+processing and more. Python has also been used in building applications such as YouTube, has been instrumental 
+in powering Google’s internal infrastructure and so on. This tool can coordinate massive clusters of computer 
+graphics servers and aid in the production of movies, this attractive attribute is why companies like Disney, 
+Sony, Dreamworks and the likes depend on it.
+
+When it comes to data science, Python is a very powerful tool, which is also open sourced and flexible, adding 
+more to its popularity. It is known to have massive libraries for manipulation of data and is extremely easy to 
+learn and use for all data analysts. Anyone who is familiar with programming languages such as, Java, Visual 
+Basic, C++ or C, will find this tool to be very accessible and easy to work with. Apart from being an independent 
+platform, this tool has the ability to easily integrate with the existing Infrastructure and can also solve the 
+most difficult of problems. It is said, that this tool is powerful, friendly, easy and plays well with others, 
+apart from running everywhere. A lot of banks use this tool for the purpose of crunching data, some institutions 
+use it for analyzing and visualization. This tool offers the great benefit of using one programming language, 
+across multiple application platforms.
+
+Python: Pros
+
+Python Notebook
+The IPython Notebook makes it easier to work with Python and data. You can easily share notebooks with colleagues, 
+without having them to install anything. This drastically reduces the overhead of organizing code, output and notes 
+files. This will allow you to spend more time doing real work.
+
+A general purpose language
+Python is a general purpose language that is easy and intuitive. This gives it a relatively flat learning curve, 
+and it increases the speed at which you can write a program. In short, you need less time to code and you have 
+more time to play around with it!
+
+Furthermore, the Python testing framework is a built-in, low-barrier-to-entry testing framework that encourages 
+good test coverage. This guarantees your code is reusable and dependable.
+
+A multi purpose language
+Python brings people with different backgrounds together. As a common, easy to understand language that is 
+known by programmers and that can easily be learnt by statisticians, you can build a single tool that integrates 
+with every part of your workflow.
+
+Python: Cons
+
+Visualizations
+Visualizations are an important criteria when choosing data analysis software. Although Python has some nice 
+visualization libraries, such as Seaborn, Bokeh and Pygal, there are maybe too many options to choose from. 
+Moreover, compared to R, visualizations are usually more convoluted, and the results are not always so 
+pleasing to the eye.
+
+Python is a challenger
+Python is a challenger to R. It does not offer an alternative to the hundreds of essential R packages. 
+Although it’s catching up, it’s still unclear if this will make people give up R?
+
+Up to you! As a data scientist it’s your job to pick the language that best fits the needs.
+
+Some questions that can help you while choosing any language in future:
+
+What problems do you want to solve?
+What are the net costs for learning a language?
+What are the commonly used tools in your field?
+What are the other available tools and how do these relate to the commonly used tools?
