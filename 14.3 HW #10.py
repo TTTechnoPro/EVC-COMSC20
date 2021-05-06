@@ -9,19 +9,33 @@ TypeError
 These are common exceptions
 '''
 
-# Write a Python class named Student with two attributes student_id, student_name.
-# Add a new attribute student_class. Create a function to display the entire attribute and their values in Student class.
 
 #Question 2
 class Student:
-    student_id = None
-    student_name = None
-    student_class = None
 
-    def getAttributes():
-        print("ID Number is:",student_id)
-        print("Student Name is:",student_name)
-        print("Class is", student_class)
+    def __init__(student_id, student_name,student_class):
+        self.student_id = student_id
+        self.student_name = student_name
+        self.student_class = student_class
+
+    def set_student_id (self,student_id):
+        self.__student_id = student_id
+    def set_student_name (self,student_name):
+        self.__student_name = student_name
+    def set_student_class (self,student_class):
+        self.__student_class = student_class
+
+    def get_student_id(self):
+        return self.__student_id
+    def get_student_name(self):
+        return self.__student_name
+    def get_student_class(self):
+        return self.__student_class
+
+    def __str__(self):
+        return "ID: " + self.__student_id + \
+            "\nName: " + self.__student_name + \
+            "\nClass" + self.__student_class
 
 #Question 3
 f = open('numbers.txt','r')
